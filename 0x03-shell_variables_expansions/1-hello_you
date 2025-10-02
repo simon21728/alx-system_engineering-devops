@@ -1,8 +1,3 @@
-
 #!/bin/bash
-<<<<<<< HEAD
 echo "hello $USER"
-=======
-hello sewmehon
 
->>>>>>> aa5e455951cea352f03b457788eaa53e4cb12bc3
