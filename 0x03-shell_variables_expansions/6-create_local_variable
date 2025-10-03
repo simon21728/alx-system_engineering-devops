@@ -1,2 +1,3 @@
 #!/bin/bash
-best_var() { local BEST="School"; }
+best_var() { local BEST="School"
+}
