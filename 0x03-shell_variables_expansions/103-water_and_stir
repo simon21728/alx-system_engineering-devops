@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=$(echo bestchol | wc -c | awk '{print $1-1}');ibase=$(echo water | wc -c | awk '{print $1-1}'); $(echo $WATER) + $(echo $STIR)" | bc
+echo "obase=$(echo bestchol | wc -c | awk '{print $1-1}')ibase=$(echo water | wc -c | awk '{print $1-1}') $(echo $WATER) + $(echo $STIR)" | bc
