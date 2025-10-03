@@ -1,4 +1,3 @@
-export HBTN=89
-. ./4-global_variables
+
 #!/bin/bash
 printenv
